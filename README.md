@@ -29,7 +29,7 @@ The project is structured as follows:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/athletic_sales_analysis.git
+   git clone https://github.com/dmmonjur/athletic_sales_analysis.git
 
 
 2. **Install Dependencies**
